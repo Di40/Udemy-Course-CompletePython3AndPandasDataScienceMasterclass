@@ -1,6 +1,7 @@
 # CompletePython3AndPandasDataScienceMasterclass
 
-Date started:  13.03.2021
+Date started: 13.03.2021
+
 Date finished: 06.04.2021
 
 These folders contain the files with code from the course "Complete Python 3 and Pandas Data Science Masterclass" by Ashwin Pajankar (Udemy).
