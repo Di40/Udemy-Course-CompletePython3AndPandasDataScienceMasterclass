@@ -1,10 +1,8 @@
-# CompletePython3AndPandasDataScienceMasterclass
+# Complete Python3 And Pandas Data Science Masterclass
 
-Date started: 13.03.2021
+This repository contains the code materials I created during the course **Complete Python 3 and Pandas Data Science Masterclass** by Ashwin Pajankar (Udemy).
 
-Date finished: 06.04.2021
-
-These folders contain the files with code from the course "Complete Python 3 and Pandas Data Science Masterclass" by Ashwin Pajankar (Udemy).
+Date started: 13.03.2021 | Date finished: 06.04.2021
 
 Topics:
 1. Introduction
